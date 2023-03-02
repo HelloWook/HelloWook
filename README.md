@@ -1,6 +1,6 @@
  ## 👋Introduce
 I am Nam Jeong-wook from the Department of Computer Engineering in the class of 19, currently attending Dong-Eui University.   
-It's embarrassing to be a major, but I'll show you how to improve.
+I will become a person who is not ashamed of the name of a major.
 
 ## 🌱 I’m currently learning   
 

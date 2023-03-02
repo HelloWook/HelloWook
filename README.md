@@ -1,6 +1,5 @@
  ## 👋Introduce
-I am Nam Jeong-wook from the Department of Computer Engineering in the class of 19  
-currently attending Dong-Eui University.   
+I am Nam Jeong-wook from the Department of Computer Engineering in the class of 19, currently attending Dong-Eui University.   
 It's embarrassing to be a major, but I'll show you how to improve.
 
 ## 🌱 I’m currently learning   

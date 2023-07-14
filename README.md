@@ -1,3 +1,3 @@
- ## 👋Introduce
-I am Nam Jeong-wook 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWook&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWook&fontSize=90" />
+
+
